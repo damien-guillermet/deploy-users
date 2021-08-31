@@ -1,2 +1,1 @@
-#Formation GIT HUG
-addind
+# Formation GIT HUG
